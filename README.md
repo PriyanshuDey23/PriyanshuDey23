@@ -1,7 +1,8 @@
 # 💫 About Me:
 I am an AI/ML enthusiast with expertise in developing cutting-edge solutions across various domains. My work spans Machine Learning, Deep Learning, Recommendation Systems, Chatbots, Generative AI Applications, AI Agents, and Data Visualization. I am passionate about leveraging AI to solve real-world problems and constantly strive to enhance my skills. Currently, I am looking for an internship in Data Science and Generative AI to gain hands-on experience and contribute to impactful projects.
 
-## 📌 Check out my portfolio: https://bento.me/priyanshudey23
+## 📌 Check out my portfolio: 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=google-chrome&logoColor=white)](https://bento.me/priyanshudey23)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshudey23) 
